@@ -1,2 +1,4 @@
-package com.ncavasin.ticketingapi.customer.dto;public record UpateCustomerDto() {
+package com.ncavasin.ticketingapi.customer.dto;
+
+public record UpateCustomerDto() {
 }

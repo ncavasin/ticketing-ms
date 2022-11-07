@@ -1,2 +1,4 @@
-package com.ncavasin.ticketingapi.customer.dto;public class CustomerDto {
+package com.ncavasin.ticketingapi.customer.dto;
+
+public record CustomerDto {
 }
